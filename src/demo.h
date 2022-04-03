@@ -1,1 +1,1 @@
-void demo_method();
+extern "C" void demo_method();
